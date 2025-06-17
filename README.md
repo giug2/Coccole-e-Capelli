@@ -31,3 +31,6 @@ Utente:
 - Thymeleaf + Bootstrap per frontend
 - Database relazionale (H2 / PostgreSQL / MySQL)
 - OAuth2 per autenticazione 
+  
+## Author
+[Gaglione Giulia](https://github.com/giug2)  
