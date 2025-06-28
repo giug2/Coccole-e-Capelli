@@ -1,5 +1,5 @@
 # 🪮 Coccole-e-Capelli
-Progetto per il corso di Sistemi Informativi su Web dellìA.A. 2022/2023.
+Progetto per il corso di Sistemi Informativi su Web dell'A.A. 2022/2023.
 
 Coccole e Capelli è una piattaforma web per la gestione di un salone di bellezza, progettata per semplificare l'organizzazione delle prenotazioni sia lato amministrativo che utente.
 
