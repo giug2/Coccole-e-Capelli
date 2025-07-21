@@ -32,5 +32,5 @@ Utente:
 - Database relazionale (H2 / PostgreSQL / MySQL)
 - OAuth2 per autenticazione 
   
-## Author
+## Autore
 [Gaglione Giulia](https://github.com/giug2)  
